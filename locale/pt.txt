@@ -1,0 +1,27 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_FF86C9EF_EB2E_61BC_41ED_0F95E489A2F4.mp3Url = media/audio_FC424868_EB22_AEA4_41DF_A31A8875399B_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_F9C15361_EB3F_E2A4_41D8_A2A6F752A6BE.label = uma a um 
+
+## Skin
+
+### Image
+Image_FF50E7CE_EB22_61FC_41C7_A904FDD3B685_mobile.url = skin/Image_FF50E7CE_EB22_61FC_41C7_A904FDD3B685_mobile_pt.png
+Image_FF50E7CE_EB22_61FC_41C7_A904FDD3B685.url = skin/Image_FF50E7CE_EB22_61FC_41C7_A904FDD3B685_pt.png
+Image_FFC5415C_EB26_BE9D_41CA_D5B4735DD0B4_mobile.url = skin/Image_FFC5415C_EB26_BE9D_41CA_D5B4735DD0B4_mobile_pt.png
+Image_FFC5415C_EB26_BE9D_41CA_D5B4735DD0B4.url = skin/Image_FFC5415C_EB26_BE9D_41CA_D5B4735DD0B4_pt.png
+
+## Tour
+
+### Description
+tour.description = 360°
+
+### Title
+tour.name = Um a um - Patrick 
